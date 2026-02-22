@@ -205,7 +205,3 @@ jupyter notebook phase2/cleaning_pyspark.ipynb
 4. Apache Hadoop – [Single Node Cluster Setup](https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-common/SingleCluster.html)
 5. Docker – [Docker Compose Overview](https://docs.docker.com/compose/)
 
----
-
-## Video Presentation
-[Watch on Box](https://buffalo.box.com/s/l1uo9xqhydblx1f1oc6leagzrrlpbz4t)
