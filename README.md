@@ -1,9 +1,6 @@
 # Big Data Pipeline for Job Market Analytics
 ### Skill Classification and Demand Prediction Using Hadoop & PySpark
 
-**Course:** CSE 4/587 – Data Intensive Computing, University at Buffalo  
-**Team:** Tawhidur Rahman, Amanjeet Singh, Mahad Mosfique, Prithvi Charan
-
 ---
 
 ## Overview
